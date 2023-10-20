@@ -226,6 +226,10 @@ Main ( Contenido principal)
 }
 
 @media (max-width: 920px){
+  #icon_menu{
+    position: relative;
+    right: 80px;
+  }
   .logo{
     margin-left: 50px;
   }
@@ -250,7 +254,8 @@ Main ( Contenido principal)
   }
   .banner_text{
     width: 100%;
-    margin-top: -100px;
+    margin-top: -150px;
+   
   }
 
 }
